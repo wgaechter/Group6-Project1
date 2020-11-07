@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Group6-Project1
 
 # This project checks to see how does the pandemic known by many names but most common is Covid-19.
@@ -25,3 +26,8 @@
     # Obersvation Three,
 	# The cause of the reaction to cases cannot be determined as people are either changing there behavior due to restrictions, or the increase in activity could be causing the increase in cases and not the other way around.
 
+=======
+# Group6-Project1---Back to Normal? Analyzing the affect covid-19 cases has had on the residents of NYC
+# Overview 
+Our group wanted to see how the rise and fall in new covid 19 cases affected everday, normal trends of New York City residents. We started by getting data for the new number of covid-19 cases daily in the NYC metro area. We then attempted to grab "normal" trend data by looking at the number of reservations made at NYC restarants, subway use, and mobility reports. Merging all of those data sets together we were able to plot how new covid 19 cases has influenced NYC life from Febuary to October. Check out our presentation for further insights! 
+>>>>>>> eefda1d0759a4770f434353839a259c30255e5d0
